@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Flutter - Dart
 - 💞️ I’m looking to collaborate on App and Web Dev Projects
 - 📫 Reach me on Discord - Mukunth#5455
--                 E-Mail - jmukunth55@gmail.com
+- 📧 E-Mail - jmukunth55@gmail.com
 
 <!---
 mukunth-j/mukunth-j is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
