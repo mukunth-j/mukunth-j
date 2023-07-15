@@ -2,7 +2,7 @@
 - 👀 I’m interested in IoT Robotics and Automation
 - 🌱 I’m currently learning Flutter - Dart
 - 💞️ I’m looking to collaborate on App and Web Dev and IoT Projects
-- 📫 Reach me on Discord - Mukunth#5455
+- 📫 Reach me on Discord - Mukunth (Mukunth#5455)
 - 📧 E-Mail - jmukunth55@gmail.com
 - 🔗 LinkedIn - [Mukunth-J](https://www.linkedin.com/in/mukunth-j/)
 - 🌐 Website - [Mukunth Portfolio](https://mukunth-j.github.io)
