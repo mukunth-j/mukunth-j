@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Mukunth J
 - 👀 I’m interested in IoT Robotics and Automation
-- 🌱 I’m currently learning Flutter - Dart
+- 🌱 Flutter - Dart Dev
+- 🎓 CEH, Network Admin - GC @ Server Load Balancing for Backend Traffic and Base Processes
 - 💞️ I’m looking to collaborate on App and Web Dev and IoT Projects
 - 📫 Reach me on Discord - Mukunth (Mukunth#5455)
 - 📧 E-Mail - jmukunth55@gmail.com
