@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" />
 </p>
 
-<h1 align="center">Hi, I'm Mukunth J 👋</h1>
+<h1 align="center">Hi, I'm Mukunth J <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
 <h3 align="center">I am Roboticist / IoT Enthusiast worked on various IoT Projects.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mukunth-j&label=Profile%20views&color=0e75b6&style=flat" alt="mukunth-j" /> </p>
 
