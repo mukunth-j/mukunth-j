@@ -3,7 +3,7 @@
 </p>
 
 <!-- <h1 align="center">Hi, I'm Mukunth J <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1> -->
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=DDF7C0&center=true&vCenter=true&repeat=false&width=275&height=35&lines=Hi%2C++I'm++Mukunth+J" alt="Typing SVG" /></a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=DDF7C0&center=true&vCenter=true&width=275&height=35&lines=Hi%2C++I'm++Mukunth+J" alt="Mukunth J" /></a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
 
 <h3 align="center">I am a Roboticist and IoT Enthusiast with experience in various IoT projects.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mukunth-j&label=Profile%20views&color=0e75b6&style=flat" alt="mukunth-j" /> </p>
