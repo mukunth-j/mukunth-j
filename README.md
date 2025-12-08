@@ -154,7 +154,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width=100%>
 <h3>Stars</h3>
   
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukunth-j&layout=compact&theme=codeSTACKr" alt=mukunth-j />
+<img align="center" height="180em" src="https://github-readme-stats-pi-black.vercel.app/api/top-langs/?username=mukunth-j&layout=compact&theme=codeSTACKr" alt=mukunth-j />
 </div>
 <br>
 
