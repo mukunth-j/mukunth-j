@@ -9,7 +9,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mukunth-j&label=Profile%20views&color=0e75b6&style=flat" alt="mukunth-j" /> </p>
 
 
-<p align="left"> <a href="https://github.com/mukunth-j/github-profile-trophy"><img src="https://github-profile-trophy-six-bice.vercel.app/?username=mukunth-j&theme=juicyfresh" alt="mukunth-j" /></a> </p>
+<p align="center"> <a href="https://github.com/mukunth-j/github-profile-trophy"><img src="https://github-profile-trophy-six-bice.vercel.app/?username=mukunth-j&theme=juicyfresh&row=2&column=4&no-bg=true" alt="mukunth-j" /></a> </p>
 
 
 - 👋 Hi, I’m @Mukunth J
